@@ -8,4 +8,5 @@
 'N/A'
 
 ## Verbal Collaboration
-Noah Walter '(@nwalter1)'
+Noah Walter (@nwalter1)
+Karl Markowsi (@kmarkowsi) 
